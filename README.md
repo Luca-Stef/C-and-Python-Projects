@@ -1,5 +1,5 @@
 # C-and-Python-Projects
-These are my solutions to the problem sets in Harvard's CS50. 
+These are my solutions to the problem sets in Harvard's CS50. Uploaded here to showcase my skills and help current students. Some skeleton code was provided by course instructors. If you are a student please use these as inspiration but do not just copy and paste to ace assignments. It is a violation of Academic integrity and will hinder any real learning.
 
 ## pset 1
 ### Cash
@@ -51,6 +51,3 @@ SQL queries to answer questions about movies using data from IMDb.
 A flask web app that uses an IEX API and a SQL database to allow users to get stock quotes and simulate buying and selling stocks.
 ### Homepage
 A simple homepage using CSS, HTML, and JavaScript.
-
-
-Note: some skeleton code was provided by CS50 instructors.
