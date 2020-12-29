@@ -69,6 +69,7 @@ int main(void)
             printf("INVALID\n");
         }
     }
+    
     else
     {
         printf("INVALID\n");
