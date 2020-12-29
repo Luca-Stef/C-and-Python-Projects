@@ -1,0 +1,1 @@
+select name from movies join (stars join people on stars.person_id = people.id) on movies.id = movie_id where year = 2004 order by birth;
